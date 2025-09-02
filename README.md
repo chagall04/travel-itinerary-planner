@@ -21,7 +21,7 @@ This is a command-line application for managing a travel itinerary. It allows us
 
 2.  **Clone the Repository**
     ```sh
-    git clone [https://github.com/chagall04/python-itinerary-planner.git](https://github.com/chagall04/python-itinerary-planner.git)
+    git clone [https://github.com/chagall04/travel-itinerary-planner.git](https://github.com/chagall04/travel-itinerary-planner.git)
     ```
 
 3.  **Navigate to the Project Directory**
