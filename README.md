@@ -31,6 +31,5 @@ This is a command-line application for managing a travel itinerary. It allows us
 
 4.  **Run the Application**
     ```sh
-    python your_main_script_name.py
+    python main.py
     ```
-    *(Note: Replace `your_main_script_name.py` with the actual name of your Python file.)*
